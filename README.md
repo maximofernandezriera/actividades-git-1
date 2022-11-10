@@ -14,7 +14,7 @@ La opción --all,  nos muestra todos los commits.
 
 Debería aparecerte algo semejante a la siguiente imagen:
 
-![git log](assets/git-log.png)
+![git log](/git-log.png)
 
 La primera columna es un **hash**, un identificador.
 
@@ -72,7 +72,7 @@ git  log  --oneline --all
 
 Debería aparecer algo semejante a la siguiente imagen:
 
-![git log](assets/git-log2.png)
+![git log](/git-log2.png)
 
 Fíjate donde apunta la referencia HEAD en este momento. 
 
@@ -124,4 +124,4 @@ git  log  --oneline --all
 
 Haz capturas de pantalla durante el proceso.
 
-**Subir a Google Classroom un documento PDF con las capturas de pantalla y explicaciones pertinentes.**
+**Subir a Google Classroom un documento PDF con las capturas de pantalla y explicaciones necesarias. Siempre con vuestras propias palabras.**
