@@ -42,7 +42,7 @@ Para ello hacemos:
 cat  README.md
 ```
 
-Deben aparecer 3 líneas de texto: tu nombre, la fecha y el IES.
+Deben aparecer 3 líneas de texto: tu nombre, la fecha y el IES (es decir nuestro centro CIFPFBMOLLI.
 
 ## 2. Vamos a movernos al primer commit. 
 
